@@ -1,0 +1,7 @@
+formulaic
+palmerpenguins
+plotnine
+polars
+scikit-learn
+siuba
+statsmodels

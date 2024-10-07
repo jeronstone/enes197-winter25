@@ -1,0 +1,9 @@
+formulaic
+gapminder
+openpyxl
+palmerpenguins
+plotnine
+polars
+scikit-learn
+siuba
+statsmodels

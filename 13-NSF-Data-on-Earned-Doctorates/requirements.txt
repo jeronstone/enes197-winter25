@@ -1,0 +1,11 @@
+formulaic
+openpyxl
+plotnine
+polars
+scikit-learn
+siuba
+statsmodels
+ConfigParser==5.3.0
+janitor
+ConfigParser==5.3.0
+pyjanitor

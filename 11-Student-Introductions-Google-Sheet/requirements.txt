@@ -1,0 +1,12 @@
+formulaic
+gapminder
+openpyxl
+palmerpenguins
+plotnine
+polars
+pyarrow
+reprexpy
+scikit-learn
+siuba
+statsmodels
+pyjanitor

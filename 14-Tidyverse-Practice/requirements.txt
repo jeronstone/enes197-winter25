@@ -1,0 +1,14 @@
+formulaic
+gapminder
+ktrain
+nltk
+openpyxl
+palmerpenguins
+plotnine
+polars
+pyjanitor
+scikit-learn
+siuba
+spacy
+statsmodels
+wordcloud
